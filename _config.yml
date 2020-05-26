@@ -22,7 +22,7 @@ title                    : "Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Joohyun Lee"
-description              : "Deep Learning / Computer vision"
+description              : "Deep Learning Portfolio"
 url                      : "http://joohyun.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -97,13 +97,13 @@ analytics:
 author:
   name             : "Joohyun Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "MSc in Seoul National University"
+  bio              : "MS-EE (Seoul National University)"
   location         : "Seoul, Republic of Korea"
   email            : "dlee110600@gmail.com"
   links:
     - label: "dlee110600@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:dlee110600@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -115,7 +115,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/cv-lee/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -281,5 +281,12 @@ defaults:
       comments: # true
       share: true
       related: true
-
+  
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+     values:
+      layout: single
+      author_profile: true
   
