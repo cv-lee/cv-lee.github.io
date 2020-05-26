@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joohyun Lee's Blog"
+title                    : "Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Joohyun Lee"
@@ -97,11 +97,11 @@ analytics:
 author:
   name             : "Joohyun Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Deep learning & Computer vision"
+  bio              : "MSc in Seoul National University"
   location         : "Seoul, Republic of Korea"
   email            : "dlee110600@gmail.com"
   links:
-    - label: "Email"
+    - label: "dlee110600@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
