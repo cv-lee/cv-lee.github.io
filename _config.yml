@@ -282,8 +282,4 @@ defaults:
       share: true
       related: true
 
-header:
-  image: /assets/images/header.jpg
-  image_description: "A description of the image"
-  
   
