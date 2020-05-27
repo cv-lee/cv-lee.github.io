@@ -48,14 +48,7 @@ categories: study network
 
 ### 계층화: 컴퓨터 사이의 대화를 계층으로 나누는 것
 
-### OSI 7 모델: 국제 표준화 기구 (ISO)에서 표준안으로 만든 개방형 시스템간의 네트워크 모델
-  * 1: 물리 계층 (Physical layer)
-  * 2: 데이터 링크 계층 (Data link layer)
-  * 3: 네트워크 계층 (Network layer)
-  * 4: 전송 계층 (Transport layer)
-  * 5: 세션 계층 (Session layer)
-  * 6: 표현 계층 (Presentation layer)
-  * 7: 응용 계층 (Application layer)
+### [OSI 7 모델: 국제 표준화 기구 (ISO)에서 표준안으로 만든 개방형 시스템간의 네트워크 모델](https://http://joohyun.me/study/network/osi-7-layer/)
 <br/>
 
 ### 인터넷(TCP/IP) 프로토콜: 서로 다른 시스템을 가진 컴퓨터를 서로 연결하는데 사용되는 네트워크 모델
