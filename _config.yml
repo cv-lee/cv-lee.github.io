@@ -119,6 +119,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Linked-In"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/joohyun-lee-2927b7134/"
 
 # Site Footer
 footer:
