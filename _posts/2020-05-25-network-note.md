@@ -63,7 +63,7 @@ categories: study network
     - 장비: 브릿지, 스위치
     - 프로토콜: 이더넷 (Ethernet)
 <details>
-<summary>자세한 설명</summary>
+<summary>   - 기타 내용</summary>
 <div markdown="1">
     - 에러제어 - 비트에 대한 에러검출과 복구
     - 흐름제어 - 장치의 수신 능력 이상으로 비트들이 유입되지 않도로 조절
