@@ -15,6 +15,13 @@ categories: 공부 네트워크
 * 단위: 비트
 * 장비: 허브, 리피터
 * (프로토콜: RS-232)
+<details>
+<summary>자세히</summary>
+<div markdown="1">
+자세히
+</div>
+</details>
+
 
 
 ## 2. 데이터링크 계층 (Data link layer)
