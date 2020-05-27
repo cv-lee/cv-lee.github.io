@@ -52,6 +52,6 @@ categories: 공부 네트워크
 
 ## 출처 
 
-* [링크1](https://hahahoho5915.tistory.com/12)
-* [링크2](https://shlee0882.tistory.com/110)
-* [링크3](https://www.youtube.com/playlist?list=PLFpZ7zSiHhPxrib8i4XPRKxB6FR9_NlCo)
+* [링크 1](https://hahahoho5915.tistory.com/12)
+* [링크 2](https://shlee0882.tistory.com/110)
+* [링크 3](https://www.youtube.com/playlist?list=PLFpZ7zSiHhPxrib8i4XPRKxB6FR9_NlCo)
