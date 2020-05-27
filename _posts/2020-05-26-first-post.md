@@ -3,9 +3,11 @@ title: "네트워크"
 date: 2020-05-27 15:00:00 -0400
 categories: 공부 네트워크
 ---
-# OSI 7계층 
-**네트워크에서 통신이 일어나는 과정**을 7단계로 나눈 것을 말한다.
-계층을 나눈 이유는 통신이 일어나는 과정이 **단계별로 파악**할 수 있기 때문이다.
+## OSI 7계층 
+
+* **네트워크에서 통신이 일어나는 과정**을 7단계로 나눈 것을 말한다.
+* 계층을 나눈 이유는 통신이 일어나는 과정이 **단계별로 파악**할 수 있기 때문이다.
+
 
 ## 1. 물리 계층 (Physical layer)
 
@@ -50,8 +52,6 @@ categories: 공부 네트워크
 
 ## 출처 
 
-1) [블로그](https://hahahoho5915.tistory.com/12)
-
-2) [블로그](https://shlee0882.tistory.com/110)
-
-2) [유튜브](https://www.youtube.com/playlist?list=PLFpZ7zSiHhPxrib8i4XPRKxB6FR9_NlCo)
+* [링크1](https://hahahoho5915.tistory.com/12)
+* [링크2](https://shlee0882.tistory.com/110)
+* [링크3](https://www.youtube.com/playlist?list=PLFpZ7zSiHhPxrib8i4XPRKxB6FR9_NlCo)
