@@ -38,7 +38,11 @@ categories: study network
   * 신뢰성
   * 보안성
 
-<hr style="border:2px solid gray"></hr>
+<html>
+  <style>
+    hr.new{border-top: 2px lightgray}
+  </style>
+</html>
 
 ## 2강 네트워크 모델과 표준 프로토콜
 
