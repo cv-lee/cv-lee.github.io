@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "Joohyun Lee"
   avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "MS-EE (Seoul National University)"
+  bio              : "MS EE (Seoul National University)"
   location         : "Seoul, Republic of Korea"
   email            :
   links:

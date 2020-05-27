@@ -1,7 +1,6 @@
-
 ---
 title: "OSI 7 Layer"
-date: 2020-05-27 15:00:00 -0400
+date: 2020-05-28 15:00:00 -0400
 categories: Study Network
 ---
 
