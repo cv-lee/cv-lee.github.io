@@ -16,9 +16,9 @@ categories: 공부 네트워크
 * 장비: 허브, 리피터
 * (프로토콜: RS-232)
 <details>
-<summary>자세히</summary>
+<summary>* 자세히</summary>
 <div markdown="1">
-자세히
+* 자세히
 </div>
 </details>
 
