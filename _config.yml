@@ -281,11 +281,11 @@ defaults:
       comments: # true
       share: true
       related: true
-
+  
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
-     values:
+    values:
       layout: single
       author_profile: true
