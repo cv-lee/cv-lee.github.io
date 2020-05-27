@@ -1,7 +1,7 @@
 ---
 title: "Nework"
 date: 2020-05-27 15:00:00 -0400
-categories: Study Network
+categories: study network
 ---
 
 ## 컴퓨터 네트워크
