@@ -38,7 +38,7 @@ categories: study network
   * 신뢰성
   * 보안성
 
-<hr style="border:5px solid gray"> </hr>
+<hr style="border:2px solid gray"></hr>
 
 ## 2강 네트워크 모델과 표준 프로토콜
 
