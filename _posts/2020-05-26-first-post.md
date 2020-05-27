@@ -1,23 +1,45 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+title: "네트워크"
+date: 2020-05-27 15:00:00 -0400
+categories: 공부 네트워크
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+< OSI 7계층 >
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+1. 물리 계층 (Physical layer)
+역할: 물리적으로 데이터 전송
+단위: 비트
+장비: 허브, 리피터
+(프로토콜: RS-232)
 
-Jekyll also offers powerful support for code snippets:
+2. 데이터링크 계층 (Data link layer)
+역할: 포인트 투 포인트 간 전송 보장 (오류&흐름제어)
+단위: 프레임
+장비: 브릿지, 스위치
+프로토콜: 이더넷
 
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-​```
+3. 네트워크 계층 (Network layer)
+역할: 경로 탐색, 상위 데이터를 캡슐화
+단위: 패킷
+장비: 라우터
+프로토콜: IP
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+4. 전송 계층 (Transport layer)
+역할: 종단간 전송 보장 (오류&흐름제어)
+단위: 세그먼트 (TCP), 데이터그램 (UDP)
+장비: 게이트웨이
+프로토콜: TCP, UDP
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+5. 세션 계층 (Session layer)
+-
+
+6. 표현 계층 (Pressentation layer)
+-
+
+7. 응용 계층 (Application layer)
+-
+
+
+출처: 
+1) https://hahahoho5915.tistory.com/12
+2) https://www.youtube.com/playlist?list=PLFpZ7zSiHhPxrib8i4XPRKxB6FR9_NlCo
